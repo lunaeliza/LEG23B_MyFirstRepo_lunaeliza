@@ -1,9 +1,14 @@
 # LEG23B_MyFirstRepo_lunaeliza
+
+# **Reflection**
 Before this lab I did not know anything about Git or GitHub, but now I feel like I have a good baseline for what it is used for and how to use it. I started with going through the Linkedin Learning Modules, and that helped me learn how to set up Git on my computer. I found that to be kind of difficult because I am not used to using my Mac Terminal for programming, in my previous classes I have used either VSCode or Google Colab to write and run the code. But once I got everything downloaded correctly, it all ran smoothly. I learned how to clone repositories which was helpful as I am sure we will be doing that a lot to complete labs. My previous classes have used GitHub to give us our skeleton to work off of, but I have never used git to clone and work on it. Just download the file and upload it to whatever I am using to write and run the code. Additionally, I learned the basic git commands like add, push, and commit. More importantly, I learned the difference between those three commands, as I frequently got them confused in class. git add prepares for staging, git commit saves locally, and git push pushes those commits to github or an alike server. Lastly, I learned about uv python environments, which I did not know about previously and had to install on my computer. When doing the lab I did not know much about what this was, but after the 9/1 class I feel more confident about uv python environments.   
 
+# **Concepts I Am Confused On**
 The concepts I am still confused about are forking, branches, and pull requests. I know it is important for sharing and collaborating, but struggle to understand the organization behind it. The visualization we had on Thursday helped me see this, but the merge function did confuse me when we did it. Though, I do know what each of those concepts are and how they are used, I am unsure just how to implement them in practice. I am sure I will get more practice with this as we move along in the course. 
 
+# **Module Ran & Experience**
 I ran the Git and GitHub Module 0 lab! My experience with it was great! It helped with the branch and visualization that I was struggling with, among the other concepts I did not understand well. As well as the different stages of working in a file. I loved how it tested me on my knowledge with the practice tab. The only question I struggled with was the last one, but I eventually understood what it meant. 
 
+## *Screenshot*
 <img width="2940" height="1598" alt="image" src="https://github.com/user-attachments/assets/be35c038-f86e-41fc-91ea-aa44e5667cc9" />
 
