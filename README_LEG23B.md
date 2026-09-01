@@ -3,4 +3,7 @@ Before this lab I did not know anything about Git or GitHub, but now I feel like
 
 The concepts I am still confused about are forking, branches, and pull requests. I know it is important for sharing and collaborating, but struggle to understand the organization behind it. The visualization we had on Thursday helped me see this, but the merge function did confuse me when we did it. Though, I do know what each of those concepts are and how they are used, I am unsure just how to implement them in practice. I am sure I will get more practice with this as we move along in the course. 
 
-I ran the Git and GitHub Module 0 lab! My experience with it was great! It helped with the branch visualization that I was struggling with. As well as the different stages of working in a file. 
+I ran the Git and GitHub Module 0 lab! My experience with it was great! It helped with the branch and visualization that I was struggling with, among the other concepts I did not understand well. As well as the different stages of working in a file. I loved how it tested me on my knowledge with the practice tab. The only question I struggled with was the last one, but I eventually understood what it meant. 
+
+<img width="2940" height="1598" alt="image" src="https://github.com/user-attachments/assets/be35c038-f86e-41fc-91ea-aa44e5667cc9" />
+
